@@ -1,0 +1,80 @@
+body {
+    background-color: #CBCBCB;
+}
+
+
+.header {
+  font-family: 'Paytone One', sans-serif;
+  background-color:#57B135;
+  color: #ffffff;
+  text-align: center;
+  font-size: 300%;
+  float: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 30px;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.home {
+  float: left;
+  font-size: 55%;
+  padding-left: 15px;
+  padding-top: 15px;
+  text-decoration: none;
+}
+
+.gradient {
+  height: 3em;
+  background-image: linear-gradient(#57B135, #CBCBCB);
+}
+
+.column {
+    float: left;
+    width: 30%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 3%;
+    position: relative;
+    text-align: center;
+    color: #CBCBCB;
+  }
+
+.lyrics {
+  font-family: 'Paytone One', sans-serif;
+  color: #57B135;
+  text-align: center;
+  font-size: 180%;
+  width: 64%;
+  padding-top: 9%;
+  float: left;
+  margin: none;
+  padding: none;
+}
+
+.build {
+  width: 100%;
+  }
+
+.covers {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    border: 4px solid #57B135;  
+}
+
+.play {
+  background-color: #57B135;
+  font-family: 'Paytone One', sans-serif;
+  border: none;
+  color:white;
+  padding: 16px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
